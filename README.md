@@ -1,4 +1,4 @@
-# Hi there, I'm Jean 👋
+# Hi there, I'm Joan 👋
 
 🌟 **Aspiring Web3 Developer | Blockchain Enthusiast**  
 🚀 Currently building a strong foundation in:
