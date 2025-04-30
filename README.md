@@ -6,7 +6,7 @@
 - **Blockchain Fundamentals**
 
 🛠️ **Skills:**
-- JavaScript (ES6+)
+- JavaScript 
 - Basic React
 
 📚 **Learning Journey:**
