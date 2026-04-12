@@ -34,7 +34,8 @@ I'm focused on mastering Web2 basics while stepping into the Web3 universe!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cizyypie&theme=tokyonight" width="60%" />
 </p>
 
----
+![Snake animation](https://github.com/cizyypie/cizyypie/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🚀 Featured Projects
 
@@ -54,10 +55,5 @@ I'm focused on mastering Web2 basics while stepping into the Web3 universe!
 - 🔒 Elliptic curve verification
 
 ---
-
-## 📈 Contribution Activity
-
-![Snake animation](https://github.com/cizyypie/cizyypie/blob/output/github-contribution-grid-snake.svg)
-
 
 <p align="center">⭐️ From <a href="https://github.com/cizyypie">cizyypie</a></p>
