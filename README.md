@@ -1,6 +1,6 @@
 # Hi there, I'm Joan 👋
 
-🌟 **Aspiring Web3 Developer | Blockchain Enthusiast**  
+🍀 **Aspiring Web3 Developer | Blockchain Enthusiast**  
 🚀 Currently building a strong foundation in:
 - **Frontend & Backend Programming**
 - **Blockchain Fundamentals**
@@ -12,6 +12,52 @@
 📚 **Learning Journey:**
 I'm focused on mastering Web2 basics while stepping into the Web3 universe!
 
-📸 **Find me on Instagram:**  
-https://www.instagram.com/yjjoan/
+![Profile Views](https://komarev.com/ghpvc/?username=cizyypie&color=green)
 
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cizyypie&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizyypie&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cizyypie&theme=tokyonight" width="60%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏪 [Inventory System](https://github.com/cizyypie/inventory-system)
+> A full-featured inventory management system
+- 📦 Built with **JavaScript**
+- ✅ REST API ready
+
+### ✅ [Fancy Todo Prisma](https://github.com/cizyypie/fancy-todo-prisma)
+> A todo app powered by Prisma ORM
+- 🗄️ Database management with **Prisma**
+- 🔐 Authentication included
+
+### 🔗 [Elliptic Check Smart Contract](https://github.com/cizyypie/ellipticheck-smartcontract)
+> Blockchain smart contract project
+- ⛓️ Built with **Solidity**
+- 🔒 Elliptic curve verification
+
+---
+
+## 📈 Contribution Activity
+
+![Snake animation](https://github.com/cizyypie/cizyypie/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">⭐️ From <a href="https://github.com/cizyypie">cizyypie</a></p>
