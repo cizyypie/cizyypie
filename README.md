@@ -25,15 +25,6 @@ I'm focused on mastering Web2 basics while stepping into the Web3 universe!
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cizyypie&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cizyypie&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cizyypie&theme=tokyonight" width="60%" />
-</p>
-
 ![Snake animation](https://github.com/cizyypie/cizyypie/blob/output/github-contribution-grid-snake.svg)
 
 
