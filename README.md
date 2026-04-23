@@ -9,9 +9,6 @@
 - JavaScript 
 - Basic React
 
-📚 **Learning Journey:**
-I'm focused on mastering Web2 basics while stepping into the Web3 universe!
-
 ![Profile Views](https://komarev.com/ghpvc/?username=cizyypie&color=green)
 
 ## 🛠️ Tech Stack
