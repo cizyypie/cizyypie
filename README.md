@@ -1,9 +1,9 @@
 # Hi there, I'm Joan 👋
 
-🍀 **Aspiring Web3 Developer | Blockchain Enthusiast**  
+🍀 **Web Developer**  
 🚀 Currently building a strong foundation in:
-- **Frontend & Backend Programming**
-- **Blockchain Fundamentals**
+- **Backend & Frontend Programming**
+
 
 🛠️ **Skills:**
 - JavaScript 
