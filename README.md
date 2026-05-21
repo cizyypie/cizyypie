@@ -37,13 +37,13 @@
 
 ### ✅ [Fancy Todo Prisma](https://github.com/cizyypie/fancy-todo-prisma)
 > A todo app powered by Prisma ORM
-- 🗄️ Database management with **Prisma**
-- 🔐 Authentication included
+-  Database management with **Prisma**
+-  Authentication included
 
 ### 🔗 [Elliptic Check Smart Contract](https://github.com/cizyypie/ellipticheck-smartcontract)
 > Blockchain smart contract project
-- ⛓️ Built with **Solidity**
-- 🔒 Elliptic curve verification
+-  Built with **Solidity**
+-  Elliptic curve verification
 
 ---
 
