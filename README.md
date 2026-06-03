@@ -22,11 +22,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cizyypie" />
-</p>
-
-![Snake animation](https://github.com/cizyypie/cizyypie/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🚀 Featured Projects
 
