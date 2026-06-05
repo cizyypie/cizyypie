@@ -24,7 +24,7 @@ I am learning web development with a focus on building a solid foundation in fro
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cizyypie&theme=default&hide_border=true" alt="Joan's GitHub Streak" />
 </p>
----
+
 
 ## Featured Projects
 
