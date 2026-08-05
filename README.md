@@ -18,10 +18,6 @@ I am learning web development with a focus on building a solid foundation in fro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cizyypie&theme=default&hide_border=true" alt="Joan's GitHub Streak" />
-</p>
 
 
 ## Featured Projects
